@@ -48,8 +48,7 @@ I’m a results-oriented software engineer with 7+ years of experience building 
 ---
 
 ### 🎓 Certifications
-
-- **AI & Blockchain for Healthcare** – Sunway Blockchain Club (Dec 2024)  
+ 
 - **Google IT Support Specialization** – Google (Jun 2024)  
 - **Generative AI with AWS** – Udacity (Mar 2024)  
 - **Full Stack Web Developer** – Udemy (2023, expired)
