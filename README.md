@@ -7,6 +7,7 @@
   <a href="https://github.com/ab-almahfadi"><img src="https://img.shields.io/github/followers/ab-almahfadi?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/abalmahfadi/"><img src="https://img.shields.io/badge/LinkedIn-AbdullahAlMahfadi-blue?logo=linkedin&style=flat-square" /></a>
   <a href="mailto:abalmahfadi@gmail.com"><img src="https://img.shields.io/badge/Email-abalmahfadi@gmail.com-informational?logo=gmail&style=flat-square" /></a>
+  <a href="https://abalmahfadi.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fabalmahfadi.netlify.app%2F" /></a>
 </p>
 
 ---
@@ -66,6 +67,8 @@ I’m currently open to partnerships in:
 📧 **Email:** [abalmahfadi@gmail.com](mailto:abalmahfadi@gmail.com)  
 🌐 **GitHub:** [github.com/ab-almahfadi](https://github.com/ab-almahfadi)  
 🔗 **LinkedIn:** [linkedin.com/in/abalmahfadi](https://www.linkedin.com/in/abalmahfadi/)
+🌐 **Website:** [abalmahfadi.netlify.app](https://abalmahfadi.netlify.app/)
+
 
 ---
 
