@@ -1,7 +1,7 @@
 <!-- GitHub Profile README aligned with Abdullah Al-Mahfadi's CV -->
 
 <h1 align="center">👋 Hi, I'm Abdullah Al-Mahfadi</h1>
-<h3 align="center">Technical Lead | Full-Stack Engineer | Automation & Cloud Specialist</h3>
+<h3 align="center">Co-Founder | Technical Lead | Automation Solutions Architecture & Cloud Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/ab-almahfadi"><img src="https://img.shields.io/github/followers/ab-almahfadi?label=GitHub&style=social" /></a>
@@ -67,7 +67,13 @@ I’m currently open to partnerships in:
 📧 **Email:** [abalmahfadi@gmail.com](mailto:abalmahfadi@gmail.com)  
 🌐 **GitHub:** [github.com/ab-almahfadi](https://github.com/ab-almahfadi)  
 🔗 **LinkedIn:** [linkedin.com/in/abalmahfadi](https://www.linkedin.com/in/abalmahfadi/)
-🌐 **Website:** [abalmahfadi.netlify.app](https://abalmahfadi.netlify.app/)
+
+
+🌐 **Website:** [https://abmfd.me/](https://abmfd.me/)
+🌐 **FlowXera:** [https://flowxera.com/](https://flowxera.com/)
+🌐 **LMS Platform:** [https://lms.flowxera.com/](https://lms.flowxera.com/)
+🌐 **n8n Free:** [https://n8n.flowxera.com/](https://n8n.flowxera.com/)
+🌐 **KPI Agent:** [https://kpi-agent.flowxera.com/](https://kpi-agent.flowxera.com/)
 
 
 ---
