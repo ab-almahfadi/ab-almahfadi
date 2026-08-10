@@ -79,8 +79,8 @@ Reporting and anomaly-detection framework built on Google Sheets, Looker Studio,
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-lilac-omega-10.vercel.app/api?username=ab-almahfadi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img src="https://github-readme-stats-lilac-omega-10.vercel.app/api/top-langs/?username=ab-almahfadi&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats-abalmahfadi.vercel.app/api?username=ab-almahfadi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-abalmahfadi.vercel.app/api/top-langs/?username=ab-almahfadi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
